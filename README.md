@@ -27,3 +27,5 @@ We’re excited to see the different topics you explore.
 
 ### Necessary Files:
 Click this [link](https://content.codecademy.com/PRO/paths/data-science/OKCupid-Date-A-Scientist-Starter.zip) to download a zip file with the necessary starter code and design assets.  Note that **date-a-scientist.ipynb** is a blank file and should be used to create your project.
+
+**IMPORTANT:** **profiles.csv** is a large file and cannot be pushed to this GitHub repository.  Use the above link to download the zip file containing **profiles.csv**, which is necessary to run **date-a-scientist.ipynb**.
